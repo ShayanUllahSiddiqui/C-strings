@@ -1,2 +1,2 @@
-# C-strings...
+# C-Strings.
 
