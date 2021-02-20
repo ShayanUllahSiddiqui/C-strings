@@ -1,3 +1,3 @@
-# C-Strings..
+# C-Strings.
 
 
